@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+ultralytics
+Pillow
+pandas
+matplotlib
+google-generativeai
+gTTS
